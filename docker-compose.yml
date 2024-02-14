@@ -1,0 +1,13 @@
+---
+version: '3'
+
+services:
+  wiki:
+    build:
+      context: .
+      dockerfile: Containerfile
+    command: ["mkdocs", "serve","--dev-addr", "0.0.0.0:${PORT:-8000}"]
+    volumes:
+      - .:/wiki:z,rw
+    ports:
+      - "${PORT:-8000}:8000"

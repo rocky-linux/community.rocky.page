@@ -1,4 +1,4 @@
-# REPLACEME Wiki
+# RESF Community Team Wiki
 
 ## Links
 
@@ -8,9 +8,3 @@
 
 ## Members
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

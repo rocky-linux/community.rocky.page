@@ -17,7 +17,7 @@ copyright: Copyright &copy; 2023 Rocky Enterprise Software Foundation
 # Configuration
 theme:
   name: material
-  logo: assets/icon-white.svg
+  logo: assets/resf-icon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

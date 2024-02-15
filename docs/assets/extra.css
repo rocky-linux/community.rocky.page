@@ -1,5 +1,5 @@
 :root {
-  .md-nav--primary .md-nav__title[for="__drawer"] {
+  .md-nav__title[for="__drawer"] {
     background: linear-gradient(135deg, #10b981 0%, #1055b9 100%); 
   }
 }

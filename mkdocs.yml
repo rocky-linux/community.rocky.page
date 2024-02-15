@@ -20,7 +20,7 @@ extra_css:
 # Configuration
 theme:
   name: material
-  logo: assets/resf-icon-w-bg.png
+  logo: assets/resf-white.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: resf

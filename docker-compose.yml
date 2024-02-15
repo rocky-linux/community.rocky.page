@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: Containerfile
-    command: ["mkdocs", "serve","--dev-addr", "0.0.0.0:${PORT:-8000}"]
+    command: ["mkdocs", "serve", "-w", "/wiki", "--dev-addr", "0.0.0.0:${PORT:-8000}"]
     volumes:
       - .:/wiki:z,rw
     ports:

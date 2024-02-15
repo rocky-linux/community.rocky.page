@@ -14,22 +14,21 @@ edit_uri: _edit/main/docs/
 # Copyright
 copyright: Copyright &copy; 2024 Rocky Enterprise Software Foundation
 
+extra_css:
+  - assets/extra.css
+
 # Configuration
 theme:
   name: material
-  logo: assets/resf-icon.png
+  logo: assets/resf-icon-w-bg.png
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: teal
+      scheme: resf
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: teal
+      scheme: resf-dark
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44.450001mm"
+   height="44.450001mm"
+   viewBox="0 0 44.450001 44.450001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="resf-white.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.624662"
+     inkscape:cx="105.86818"
+     inkscape:cy="665.36917"
+     inkscape:window-width="1440"
+     inkscape:window-height="3356"
+     inkscape:window-x="0"
+     inkscape:window-y="52"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.5796834,-3.8748417)">
+    <path
+       d="M 2.5796834,3.8748417 H 47.029686 V 31.39389 l -6.87626,-6.876256 -5.13556,5.135562 -10.27113,-10.271125 -5.13556,5.135298 -10.2710976,-10.271045 -6.760395,6.760289 z"
+       fill="#ffffff"
+       id="path3"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 40.153426,32.220977 -16.10386,16.103865 h 22.98012 v -9.227609 z"
+       fill="#ffffff"
+       id="path4"
+       style="stroke-width:0.264583" />
+    <path
+       d="M 24.746736,27.085415 31.166056,33.505 16.346271,48.324842 H 3.5072594 Z"
+       fill="#ffffff"
+       id="path5"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 9.3400784,21.949588 -6.760395,6.760633 V 41.549127 L 15.759558,28.369173 Z"
+       fill="#ffffff"
+       id="path6"
+       style="stroke-width:0.264583" />
+  </g>
+</svg>

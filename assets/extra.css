@@ -1,3 +1,9 @@
+:root {
+  .md-nav--primary .md-nav__title[for="__drawer"] {
+    background: linear-gradient(135deg, #10b981 0%, #1055b9 100%); 
+  }
+}
+
 [data-md-color-scheme="resf"] {
   --md-accent-fg-color:         #0e7391;
   --md-primary-fg-color--dark:  #107fa1;

@@ -2,7 +2,7 @@
 version: '3'
 
 services:
-  wiki:
+  community_wiki:
     build:
       context: .
       dockerfile: Containerfile

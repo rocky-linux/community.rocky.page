@@ -1,7 +1,7 @@
 :root {
   @media screen and (max-width: 76.234375em) {
     .md-nav__title[for="__drawer"] {
-      background: linear-gradient(135deg, #10b981 0%, #1055b9 100%); 
+      background: linear-gradient(135deg, #10b981 0%, #1055b9 100%);
     }
   }
 }
